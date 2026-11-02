@@ -1,0 +1,6 @@
+{
+  "name": "OmniMetrics Sales Intelligence",
+  "description": "Interactive real-time sales analytics and data visualization dashboard with customizable charts, live transactions, and deep multi-dimensional insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
